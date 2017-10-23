@@ -1,0 +1,19 @@
+@import "../../node_modules/boostrap/scss/variables.scss";
+// Bootstrap overrides
+//
+// Copy variables from Bootstrap's `_variables.scss` to this file to override default values
+// without modifying source files.
+
+// Color scheme
+
+$blue:    #0085eb;
+$orange:  #fcb033;
+$primary: $blue;
+$secondary: $orange;
+
+$link-color: $blue;
+
+
+// Theme variables
+$h1-color: $gray-900;
+$h2-color: $primary;
